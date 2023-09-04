@@ -1,0 +1,55 @@
+body{
+    background-color: lightblue;
+}
+.header{
+    background-color: white;
+    text-align: right;
+    padding: 1px;
+}
+.button{
+    background-color: rgba(1, 103, 255, 0.996);
+    color: white;
+    margin: 5px
+}
+
+.mainbox{
+    background-color: white;
+    margin: 10px;
+    padding: 1em;
+    border-radius: 5px;
+    text-align: center;
+    width: -200px;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+#Submit{
+    padding: 5px;
+    text-align: center;
+
+
+}
+
+.email{
+    border-radius: 5px;
+    padding: 10px;
+    margin-top:  20px;
+}
+h1{
+    text-align: center;
+}
+
+.icons{
+    text-align: center;
+}
+.Facebook{
+    height: 50px;
+    width: 50px;
+}
+.Instagram{
+    height: 50px;
+    width: 50px;
+}
+.Twitter{
+    height: 50px;
+    width: 50px;
+}
